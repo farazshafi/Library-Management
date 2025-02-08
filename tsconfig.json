@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",   // Output folder
+    "rootDir": "./src",   // Source folder
+    "target": "ES6",      // JS version
+    "module": "CommonJS", // Module system
+    "strict": true
+  }
+}
